@@ -1,0 +1,9 @@
+PyQt6
+SpeechRecognition
+google-genai
+ollama
+pygame
+edge-tts
+gTTS
+python-dotenv
+PyAudio

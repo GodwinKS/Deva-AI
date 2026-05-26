@@ -1,0 +1,4 @@
+My name is Godwin K S. 
+I am a first-year Computer Science Engineering (B.Tech) student at VIT Chennai.
+I use the KDE Plasma desktop environment on Linux.
+I am currently learning Object-Oriented Programming in C++ and building Python AI projects.

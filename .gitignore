@@ -1,5 +1,5 @@
+.env
+personal_memory.txt
 assistant_env/
 __pycache__/
-*.mp3
-*.wav
-.env
+*.pyc

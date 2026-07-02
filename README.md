@@ -63,6 +63,6 @@ python3 gui_main.py
 👨‍💻 Developer
 Godwin K S Computer Science & Engineering www.linkedin.com/in/godwinks | [GITHUB](https://github.com/GodwinKS)
 
-
+[![DeOne AI Assistant Demo](https://img.youtube.com/vi/Pg73K6MdaOE/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pg73K6MdaOE)
 ***
 

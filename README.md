@@ -1,5 +1,6 @@
 Markdown
 # Deva AI: Dual-Persona Desktop Assistant for Linux
+[![DeOne AI Assistant Demo](https://img.youtube.com/vi/Pg73K6MdaOE/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pg73K6MdaOE)
 ![UI Screenshot](screenshot.png)
 ![Deva AI Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Linux%20%28KDE%20Plasma%29-blue) ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)
 
@@ -63,6 +64,6 @@ python3 gui_main.py
 👨‍💻 Developer
 Godwin K S Computer Science & Engineering www.linkedin.com/in/godwinks | [GITHUB](https://github.com/GodwinKS)
 
-[![DeOne AI Assistant Demo](https://img.youtube.com/vi/Pg73K6MdaOE/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pg73K6MdaOE)
+
 ***
 
